@@ -1,0 +1,15 @@
+D:\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.exe.config
+D:\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.exe
+D:\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.pdb
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\AdminPortal.csproj.AssemblyReference.cache
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\AdminPortal.csproj.SuggestedBindingRedirects.cache
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Users.resources
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.FormAdmin.resources
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.FormLogin.resources
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Home.resources
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Properties.Resources.resources
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\AdminPortal.csproj.GenerateResource.cache
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\AdminPortal.csproj.CoreCompileInputs.cache
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.exe
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.pdb
+D:\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.StaffInformation.resources
